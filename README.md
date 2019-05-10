@@ -1,2 +1,22 @@
-# line_word_character_space_dictionary_counting
-This project is a python application, for the command line in the terminal. It runs ... The "line_word_character_space_dictionary_counting.py" is a project sample, which I am making as a demonstration of some of my abilities. It is found also on my web-portfolio:
+# line_word_character_space_dictionary_counting  
+
+### This project is a python application, for the command line in the terminal. It runs ...  
+
+### The **_"line_word_character_space_dictionary_counting.py"_** is a project sample, which I am making as a demonstration of some of my abilities. It is found also on my web-portfolio: https://ropimasi.wixsite.com/portfolio .  
+
+CONTENT: A PERSONAL MINI-PPROJECT.  
+THEME: TEXT FILE DETAILER.  
+PROJECT NAME: **line_word_character_space_dictionary_counting**.  
+FILE NAME: **line_word_character_space_dictionary_counting.py_** / **_lwcsdconting_** / **_text_file_detailer_**  .  
+PROJ-VERSION: 0.1.  
+AUTHOR: RONALDO PI MA SI.  
+DATE: 2019-FEB.  
+LANGUAGE: PYTHON.  
+LANG-VERSION: 3.  
+PLATAFORM: Microsoft Windows7, PYTHON 3.7 INTERPRETER, VISUAL STUDIO CODE.  
+
+IMPORTANT NOTE / DISCLAIMER:
+This is a project made exclusively for study purposes. Nobody has obliga-
+tions, either responsibility on it or its effects. There is no guarantee
+it will work correctly. SEE ITS [`LICENSE`](https://github.com/ROPIMASI/line_word_character_space_dictionary_counting/blob/master/LICENSE) FILE IN THIS REPOSITORY.  
+
