@@ -19,4 +19,3 @@ IMPORTANT NOTE / DISCLAIMER:
 This is a project made exclusively for study purposes. Nobody has obliga-
 tions, either responsibility on it or its effects. There is no guarantee
 it will work correctly. SEE ITS [`LICENSE`](https://github.com/ROPIMASI/line_word_character_space_dictionary_counting/blob/master/LICENSE) FILE IN THIS REPOSITORY.  
-
