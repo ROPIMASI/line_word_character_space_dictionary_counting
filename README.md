@@ -1,5 +1,5 @@
 # line_word_character_space_dictionary_counting 
-_(or lwcsdconting / or text_file_detailer)_  
+_(or lwcsdcont / or text_file_detailer)_  
   
   
 ### This project is a python application, for the command line in the terminal. It runs < it will be continued >...  
@@ -9,7 +9,7 @@ _(or lwcsdconting / or text_file_detailer)_
 CONTENT: A PERSONAL MINI-PPROJECT.  
 THEME: TEXT FILE DETAILER.  
 PROJECT NAME: **line_word_character_space_dictionary_counting**.  
-FILE NAME: **line_word_character_space_dictionary_counting.py** / _or **lwcsdconting**_ / _or **text_file_detailer**_  .  
+FILE NAME: **line_word_character_space_dictionary_counting.py** / _or **lwcsdcont**_ / _or **text_file_detailer**_  .  
 PROJ-VERSION: 0.1.  
 AUTHOR: RONALDO PI MA SI.  
 DATE: 2019-FEB.  
@@ -20,4 +20,5 @@ PLATAFORM: Microsoft Windows7, PYTHON 3.7 INTERPRETER, VISUAL STUDIO CODE.
 >**IMPORTANT NOTE / DISCLAIMER:**
 >This is a project made exclusively for study purposes. Nobody has obliga-
 >tions, either responsibility on it or its effects. There is no guarantee
->it will work correctly. SEE ITS [`LICENSE`](https://github.com/ROPIMASI/line_word_character_space_dictionary_counting/blob/master/LICENSE) FILE IN THIS REPOSITORY.  
+>it will work correctly. THIS PROJECT IS SUBSTRICTED IN THE GNU GENERAL
+>PUBLIC LICENSE Version 3. SEE ITS [`LICENSE`](https://github.com/ROPIMASI/line_word_character_space_dictionary_counting/blob/master/LICENSE) FILE IN THIS REPOSITORY.  
