@@ -1,4 +1,5 @@
-# line_word_character_space_dictionary_counting  
+# line_word_character_space_dictionary_counting
+---  
 
 ### This project is a python application, for the command line in the terminal. It runs < it will be continued >...  
 
@@ -15,7 +16,7 @@ LANGUAGE: PYTHON.
 LANG-VERSION: 3.  
 PLATAFORM: Microsoft Windows7, PYTHON 3.7 INTERPRETER, VISUAL STUDIO CODE.  
 
-IMPORTANT NOTE / DISCLAIMER:
-This is a project made exclusively for study purposes. Nobody has obliga-
-tions, either responsibility on it or its effects. There is no guarantee
-it will work correctly. SEE ITS [`LICENSE`](https://github.com/ROPIMASI/line_word_character_space_dictionary_counting/blob/master/LICENSE) FILE IN THIS REPOSITORY.  
+>**IMPORTANT NOTE / DISCLAIMER:**
+>This is a project made exclusively for study purposes. Nobody has obliga-
+>tions, either responsibility on it or its effects. There is no guarantee
+>it will work correctly. SEE ITS [`LICENSE`](https://github.com/ROPIMASI/line_word_character_space_dictionary_counting/blob/master/LICENSE) FILE IN THIS REPOSITORY.  
