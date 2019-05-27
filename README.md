@@ -21,5 +21,5 @@ PLATAFORM: Microsoft Windows7, PYTHON 3.7 INTERPRETER, VISUAL STUDIO CODE.
 >This is a project made exclusively for study purposes. Nobody has obliga-
 >tions, either responsibility on it or its effects. There is no guarantee
 >it will work correctly. THIS PROJECT IS SUBSTRICTED IN THE GNU GENERAL
->PUBLIC LICENSE Version 3. SEE ITS [`LICENSE`](https://github.com/ROPIMASI/line_word_character_space_dictionary_counting/blob/master/LICENSE) FILE
->IN THIS REPOSITORY.  
+>PUBLIC LICENSE Version 3. SEE ITS [`LICENSE`](https://github.com/ROPIMASI/line_word_character_space_dictionary_counting/blob/master/LICENSE) 
+>FILE IN THIS REPOSITORY.  
