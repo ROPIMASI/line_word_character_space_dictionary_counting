@@ -10,7 +10,8 @@ CONTENT: A PERSONAL MINI-PPROJECT.
 THEME: TEXT FILE DETAILER.  
 PROJECT NAME: **line_word_character_space_dictionary_counting**.  
 FILE NAME: **line_word_character_space_dictionary_counting.py** / _or **lwcsdcont**_ / _or **text_file_detailer**_  .  
-PROJ-VERSION: 0.1.  
+PROJ-VERSION: 0.0.1 beta.  
+BRANCH: MASTER.
 AUTHOR: RONALDO PI MA SI.  
 DATE: 2019-FEB.  
 LANGUAGE: PYTHON.  
