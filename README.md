@@ -1,5 +1,7 @@
-# line_word_character_space_dictionary_counting _or **lwcsdconting**_ / _or **text_file_detailer**_
-
+# line_word_character_space_dictionary_counting 
+_(or lwcsdconting / or text_file_detailer)_  
+  
+  
 ### This project is a python application, for the command line in the terminal. It runs < it will be continued >...  
 
 ### The **_"line_word_character_space_dictionary_counting.py"_** is a project sample, which I am making as a demonstration of some of my abilities. It is found also on my web-portfolio: https://ropimasi.wixsite.com/portfolio .  
